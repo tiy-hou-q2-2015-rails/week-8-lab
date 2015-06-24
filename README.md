@@ -93,6 +93,8 @@ Work should happen in feature branches in git, with pull-requests that the other
 Notes
 -----
 
+-   Backend will need to allow "CORS". Check out "rack-cors" to allow javascript
+    ability to ask for JSON from a different domain.
 -	You can add your requirements to a [Trello](http://trello.com/) board to see what remains to be done.
 -	How to deploy a subdirectory to heroku [Notes](https://sndrs.ca/2013/11/15/deploy-a-subdirectory-to-heroku-as-an-app/)
 
