@@ -1,0 +1,17 @@
+{
+    "name": "happy-appy-api",
+    "version": "0.0.1",
+    "title": "Happy Appy Apis (Pair Projects)",
+    "description": "Happy Appy Apis (Pair Projects)",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "API",
+        "Pair",
+        "Rails",
+        "Ruby"
+    ]
+}
